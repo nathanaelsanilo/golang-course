@@ -9,3 +9,9 @@
 ## Day 2
 
 - [x] learn how to use map, for loop with two sum problem
+
+## Day 3
+
+- [x] learn how to create class using struct
+- [x] compare value receiver vs pointer receiver
+- [x] doing exercise by using struct, receiver, factory function
