@@ -21,3 +21,9 @@
 - [x] learn how polymorph in go works using interface
 - [x] learn about custom error and error interface
 - [x] learn about how to use `&`. it depends on the pointer receiver
+
+## Day 5
+
+- [x] learn how to structure folders
+- [x] learn how to define go modules and import statement
+- [x] learn how to install third-party package
