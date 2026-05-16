@@ -27,3 +27,11 @@
 - [x] learn how to structure folders
 - [x] learn how to define go modules and import statement
 - [x] learn how to install third-party package
+
+## Day 6
+
+- [x] learn how to start a simple web server
+- [x] learn `net/http` module to setup simple endpoint
+- [x] learn how to access method, path and return http response
+- [x] learn how to implement layered architecture by separating handler and service module
+- [x] learn how to implement abstraction by created `interface` to expose function
