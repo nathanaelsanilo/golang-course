@@ -35,3 +35,9 @@
 - [x] learn how to access method, path and return http response
 - [x] learn how to implement layered architecture by separating handler and service module
 - [x] learn how to implement abstraction by created `interface` to expose function
+
+## Day 7
+
+- [x] learn how to use chi as routes management for net/http
+- [x] know that GO can define higher order function
+- [x] learn how to use middleware from chi package
