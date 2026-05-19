@@ -41,3 +41,10 @@
 - [x] learn how to use chi as routes management for net/http
 - [x] know that GO can define higher order function
 - [x] learn how to use middleware from chi package
+
+## Day 8
+
+- [x] learn how to use struct tag to map json fields
+- [x] learn how to use serialization using `json.Marshal` and `json.Decode/Encode`
+- [x] learn how to define max size body by using bitwise operator
+- [x] learn how to create a helper function to write success & error object and `GetBody` to get the request body
