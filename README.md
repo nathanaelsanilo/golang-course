@@ -48,3 +48,10 @@
 - [x] learn how to use serialization using `json.Marshal` and `json.Decode/Encode`
 - [x] learn how to define max size body by using bitwise operator
 - [x] learn how to create a helper function to write success & error object and `GetBody` to get the request body
+
+## Day 9
+
+- [x] learn how to use `map` and `make` to define safer `map`. `map` literal is good when you have initial state. `make` is good when you dont have initial state because it still have memory allocation
+- [x] review handler, model, service layers
+- [x] learn how to use `store` layers to mimick database layer
+- [x] learn how to handle concurrency by using `sync.RWMutex` to lock and unlock write and read operations
