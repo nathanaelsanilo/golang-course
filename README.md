@@ -61,3 +61,10 @@
 - [x] found new pattern: composition root, where main module setup all the dependency
 - [x] learn about map behavior. When you get a value from a map, it returned a copy not the reference
 - [x] learn about new technique: error sentinel, create an error string that you can use to check type of the error using `errors.Is()`
+
+## Day 11
+
+- [x] learn how to setup postgres db connection via `database/sql`
+- [x] learn how to setup env variable for DSN
+- [x] learn how to use pointer (*) and pointer reference (&) on function signatures
+    - if a function parameter has `*param` then the caller must pass `&var`

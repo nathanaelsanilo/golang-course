@@ -1,4 +1,4 @@
-package models
+package main
 
 type User struct {
 	ID       int
@@ -14,10 +14,4 @@ func NewUser(id int, name string, isActive bool, weight int32) User {
 		IsActive: isActive,
 		Weight:   weight,
 	}
-}
-
-type UserReqDto struct {
-	Name     string `json:"name"`
-	IsActive bool   `json:"is_active"`
-	Weight   int32  `json:"weight,omitempty"`
 }
